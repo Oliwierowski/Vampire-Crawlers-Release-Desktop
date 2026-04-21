@@ -2,7 +2,7 @@
 
 # Vampire Crawlers: Night of Survival Desktop Edition
 
-[![Stars](https://img.shields.io/github/stars/Oliwierowski/Vampire-Crawlers-Release-Desktop)](https://github.com/Oliwierowski/Vampire-Crawlers-Release-Desktop) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/Oliwierowski/Vampire-Crawlers-Release-Desktop)](https://github.com/Oliwierowski/Vampire-Crawlers-Release-Desktop) [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
 > **Vampire Crawlers: Night of Survival Desktop Edition** is a high-performance PC version of the intense gothic horde-survival roguelite. Battle through endless waves of night creatures, unlock powerful artifacts, and evolve your slayer with improved frame rates, native 4K support, and precise desktop controls.
 Experience the dark atmosphere of Vampire Crawlers with modern PC enhancements: higher resolution textures, ultra-wide monitor support, keyboard & mouse optimization, and stable performance even with thousands of enemies on screen.
